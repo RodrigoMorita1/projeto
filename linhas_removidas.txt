@@ -1,0 +1,30 @@
+  nr_aluno          nome    apelido       curso  media_entrada curso_concluido  media_final
+  20201029      Leonardo    Capicua Informática             17               1         11.0
+   2007104          Rita    Sampaio  Psicologia             14               1         16.0
+  20071729      Patrícia      Pires  Psicologia             19               1         13.0
+   2022319       Beatriz    Sampaio Comunicação             18               1         11.0
+   2007651          Rita    Capicua  Psicologia             14               1         14.0
+2019153826       Beatriz      Silva Comunicação             14               1         16.0
+  20191382      Patrícia   da Silva  Psicologia             18               1         11.0
+  20211159        Miguel     Morais Informática             14               1         15.0
+    202228         Jorge     Cintra Informática             10               1         19.0
+  20071001 Michaelangelo      Pires  Psicologia             12               1         20.0
+  20201291        Olivia   da Silva  Psicologia             12               1         18.0
+   2019316         Diana    Sampaio  Psicologia             19               1         13.0
+   2020130         Marta     Cintra  Psicologia             18               1         10.0
+   2022974        Raquel    Sampaio  Psicologia             17               1         11.0
+   2020999        Sandra    Pereira Comunicação             18               1         11.0
+  20221505          Anne Laranjeira  Psicologia             13               1         20.0
+   2019381         Carla    Machado  Psicologia             18               1         12.0
+   2019452      Leonardo    Castelo  Psicologia             13               1         20.0
+  20201366         Pedro    Machado  Psicologia             20               1         13.0
+    200719    Maria João    Pereira  Psicologia             10               1         19.0
+  20031555       Rodrigo   da Silva  Psicologia             10               1         19.0
+   2003675         Marta    Capicua Comunicação             19               1         10.0
+  20201230         Lucas    Sampaio  Psicologia             20               1         12.0
+   2003850          Rita    Pereira Comunicação             19               1         11.0
+   2019869         Alice Laranjeira Informática             11               1         17.0
+  20221093      Patrícia    Pereira Comunicação             14               1         16.0
+  20071160         Lucas    Capicua Informática             12               1         20.0
+   2020288         Pedro    Capicua Comunicação             13               1         19.0
+2019163820         Diana   da Silva Comunicação             13               1         18.0
