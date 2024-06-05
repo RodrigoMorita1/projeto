@@ -24,29 +24,19 @@ nr_aluno,nome,apelido,curso,media_entrada,curso_concluido,media_final
 20191156,Rita,Morais,Informática,13,1,20.0
 2022165,Pedro,Cintra,Psicologia,20,1,10.0
 20221710,Christos,Machado,Comunicação,15,1,14.0
-2003594,Michaelangelo,Laranjeira,Comunicação,0,1,15.0
-202211,Catarina,Morais,Comunicação,20,1,21.0
-2019990,Leonardo,Capicua,Comunicação,22,1,12.0
 2022188,Jorge,da Silva,Comunicação,14,1,16.0
 2019409,Rita,Cintra,Informática,10,1,19.0
 20201647,Maria João,Cintra,Psicologia,12,1,17.0
-2021652,Lucas,Machado,Informática,21,1,17.0
 20221621,Lucas,Laranjeira,Psicologia,20,1,10.0
 20031399,Alice,Pires,Psicologia,17,1,13.0
 2019472,Avelino,Capicua,Informática,14,1,14.0
-202245,Rui,Pires,Informática,10,1,-2.0
 20191349,Catarina,Castelo,Informática,18,1,11.0
 20221391,Jorge,Castelo-Branco,Informática,17,1,13.0
-2007469,Nuno,da Silva,Psicologia,14,1,-1.0
 2007716,Avelino,da Silva,Informática,12,1,19.0
 202247,Olivia,Pires,Informática,12,1,20.0
-20071679,Jorge,Sampaio,Comunicação,10,1,-1.0
-20201386,Pedro,Pires,Psicologia,22,1,18.0
 20211223,Christos,Cintra,Comunicação,11,1,17.0
 20191453,Lucas,Castelo,Informática,12,1,19.0
 2022865,Lucas,Morais,Informática,12,1,19.0
-20211328,Ana,Sampaio,Informática,12,1,-1.0
-2007975,Rita,Pires,Comunicação,11,1,21.0
 20071069,Christos,Machado,Informática,20,1,12.0
 20221501,Avelino,Castelo,Psicologia,17,1,13.0
 20031449,Lucas,Sampaio,Comunicação,13,1,18.0
@@ -56,14 +46,10 @@ nr_aluno,nome,apelido,curso,media_entrada,curso_concluido,media_final
 2019950,Rui,Machado,Comunicação,13,1,19.0
 20221277,Rui,Sampaio,Informática,10,1,18.0
 2003665,Michaelangelo,Machado,Psicologia,20,1,12.0
-2007691,Miguel,Silva,Informática,14,1,-2.0
-20201046,Miguel,Silva,Psicologia,-1,1,17.0
-20221456,Lucas,Silva,Informática,18,1,-1.0
 200757,Maria João,Capicua,Psicologia,10,1,17.0
 20211024,Bruno,Morais,Comunicação,10,1,18.0
 20211101,Catarina,Morais,Informática,20,1,10.0
 20201643,Avelino,Machado,Comunicação,17,1,12.0
-2019514,Diana,Sampaio,Informática,-2,1,12.0
 2021164,Miguel,Castelo,Informática,13,1,19.0
 2003853,Sandra,Silva,Comunicação,11,1,20.0
 2019368,Christos,Capicua,Psicologia,13,1,19.0
