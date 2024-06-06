@@ -1,0 +1,19 @@
+nr_aluno	nome	apelido	curso	media_entrada	curso_concluido	media_final
+2021715.0	Avelino	da Silva	Desconhecido	16.0	1.0	15.0
+202211.0	Catarina	Morais	Comunicação	20.0	1.0	21.0
+2019990.0	Leonardo	Capicua	Comunicação	22.0	1.0	12.0
+2021320.0	Jorge	Pires	Medicina Veterinária	17.0	1.0	11.0
+2020264.0	Miguel	Pires	Medicina Veterinária	13.0	1.0	20.0
+2021652.0	Lucas	Machado	Informática	21.0	1.0	17.0
+2020254.0	Michaelangelo	Morais	Medicina Veterinária	12.0	1.0	20.0
+20211394.0	Bruno	Cintra	Medicina Veterinária	18.0	1.0	13.0
+202245.0	Rui	Pires	Informática	10.0	1.0	-2.0
+2020188.0	Nuno	Cintra	Desconhecido	15.0	1.0	16.0
+2007469.0	Nuno	da Silva	Psicologia	14.0	1.0	-1.0
+20071679.0	Jorge	Sampaio	Comunicação	10.0	1.0	-1.0
+20201386.0	Pedro	Pires	Psicologia	22.0	1.0	18.0
+20211328.0	Ana	Sampaio	Informática	12.0	1.0	-1.0
+2007975.0	Rita	Pires	Comunicação	11.0	1.0	21.0
+2007691.0	Miguel	Silva	Informática	14.0	1.0	-2.0
+20221456.0	Lucas	Silva	Informática	18.0	1.0	-1.0
+2300910.0	Alf	Alien Life Form	Má Vida	20.0	1.0	20.0
